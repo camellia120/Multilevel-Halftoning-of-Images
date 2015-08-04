@@ -137,16 +137,3 @@ end
 B_Final=B_Sum/(m-1);
 figure(1);
 imshow(B_Final);
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    

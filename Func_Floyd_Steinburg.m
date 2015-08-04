@@ -24,4 +24,3 @@ for i=2:m+1
 end
 Output_Image=re;
 end
-

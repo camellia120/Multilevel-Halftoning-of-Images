@@ -12,5 +12,3 @@ Bm=Func_Improved_Multiscale_Error_Diff(Input);
 figure(1);
 imshow(Bm);
 title('The image after processing by the Improved Multiscale Error Diffusion');
-
-

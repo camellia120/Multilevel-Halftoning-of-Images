@@ -188,11 +188,3 @@ Output_Image=Bm;
 %figure(2);
 %imshow(Bm);
 toc;
-
-            
-                
-            
-
-
-
-

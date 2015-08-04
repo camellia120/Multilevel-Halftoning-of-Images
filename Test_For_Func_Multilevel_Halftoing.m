@@ -10,9 +10,3 @@ Bm=Func_Multilevel_Halftoing(Input);
 figure(1);
 imshow(Bm);
 title('The image after processing by the Multilevel Halftoing');
-
-
-
-
-
-

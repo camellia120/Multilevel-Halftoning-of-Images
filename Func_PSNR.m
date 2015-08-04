@@ -14,9 +14,3 @@ end
 MSE=double(sum(sum(MSE_Element))/(m*n));
 Max_Gray=double(max(max(Input_Image)));
 PSNR=10*log10(Max_Gray^2/MSE);
-
-
-
-
-       
-        
